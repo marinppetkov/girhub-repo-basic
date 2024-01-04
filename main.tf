@@ -11,6 +11,6 @@ resource "null_resource" "generate_names" {
     command = "echo ${random_pet.random_names[count.index].id} >> test.txt"
   }
   triggers = {
-    random_pet_ids = join(",",random_pet.random_names[*].id)
+   random_pet_id = random_pet.random_names[count.index].id
   }
 }
