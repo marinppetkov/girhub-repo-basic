@@ -1,5 +1,5 @@
 variable instances{
-    description = "Number of istances for random resource"
+    description = "Number of istances for random resource "
     default = 2
 }
 
