@@ -14,3 +14,5 @@ resource "null_resource" "generate_names" {
    random_pet_id = random_pet.random_names[count.index].id
   }
 }
+
+### new change
