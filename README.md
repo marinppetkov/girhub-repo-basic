@@ -4,4 +4,4 @@
 3.  sample repo - random_pet (gh repo): once done, save the link
 4.  sample repo - use count - null provider - use count.index (gh repo): once done, save the link
 5.  sample repo - output (gh repo): once done, save the link.
-6.  sample repo - variables (gh repo): once done, save the link
+6.  sample repo - variables (gh repo): once done, save the link.
